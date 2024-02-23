@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Thanh</h1>
 <h3 align="center">I'm 22 years old. I'm study bachero of Control and Automation Engineering in Hanoi University of Sience and Technology. I speak Vietnamese and English</h3>
 
-- 🔭 I’m currently working on **Target tracking Indoor Positioning**
+- 🔭 I’m currently working on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
 
-- 🌱 I’m currently learning **Machine Learning, microcontroller Nuvoton, Linux**
+- 🌱 I’m currently learning **Machine Learning, microcontroller Nuvoton**
 
 - 🔭 I’m currently beginning working on **BK Galaxy**
 
