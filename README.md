@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, microcontroller Nuvoton, Linux**
 
-- 🔭 I’m currently beginning working on **Robocon 2024**
+- 🔭 I’m currently beginning working on **BK Galaxy**
+
+- 🔭 I'm learn about **Robocon 2024**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruoidz](https://github.com/ruoidz)
 
