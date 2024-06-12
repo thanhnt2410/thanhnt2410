@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
 
-- 🌱 I’m currently learning **Machine Learning, microcontroller Nuvoton**
+- 🌱 I’m currently learning **Machine Learning, EFR32MG24**
 
 - 🔭 I’m currently beginning working on **BK Galaxy**
 
-- 🔭 I'm learn about **Robocon 2024**
+- 🔭 I'm learn about **Zigbee**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruoidz](https://github.com/ruoidz)
 
