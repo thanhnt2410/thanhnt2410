@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
 
-- 🌱 I’m currently learning **Machine Learning, EFR32MG24**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🔭 I’m currently beginning working on **BK Galaxy**
 
-- 🔭 I'm learn about **Zigbee**
+- 🔭 I'm starting learn about **Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruoidz](https://github.com/ruoidz)
+- 👨‍💻 All of my projects are available at [https://github.com/thanhnt2410](https://github.com/thanhnt2410)
 
 - 📫 How to reach me **thanhnguyentuana6k46@gmail.com**
 
