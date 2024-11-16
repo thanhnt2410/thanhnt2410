@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Thanh</h1>
 <h3 align="center">I'm 22 years old. I graduated bachero of Control and Automation Engineering in Hanoi University of Sience and Technology. I speak Vietnamese and English</h3>
 
-- 🔭 I’m currently working on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
+- 🔭 In University, I worked on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ROS2 and Computer Vision**
 
-- 🔭 I’m currently beginning working on **BK Galaxy**
+- 🔭 I worked on **BK Galaxy**
 
-- 🔭 I'm starting learn about **Linux**
+- 🔭 I'm starting learn about **ROS2**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnt2410](https://github.com/thanhnt2410)
 
