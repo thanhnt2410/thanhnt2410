@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ROS2 and Computer Vision**
 
-- 🔭 I worked on **BK Galaxy**
-
 - 🔭 I'm starting learn about **ROS2**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnt2410](https://github.com/thanhnt2410)
