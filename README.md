@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Thanh, I'm a Robotics Engineer</h1>
 <h3 align="center">I'm 24 years old. I graduated bachero of Control and Automation Engineering in Hanoi University of Sience and Technology</h3>
 
-- 🔭 In University, I worked on **IPAC Lab of HUST about Target Tracking Indoor Positioning**
-
 - 🌱 I’m currently learning **ROS2 and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnt2410](https://github.com/thanhnt2410)
